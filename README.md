@@ -107,7 +107,7 @@
     </head>
     <body>
 
-        <div id="box">
+        <nav id="box">
             <h1 id="Title">Mattie Hicks' Personal Website</h1>
             <div class="tab">
                 <button class="tablink" onclick="openCity(event,'Home')">Home</button>
@@ -116,7 +116,7 @@
                 <button class="tablink" onclick="openCity(event,'Skills')"> Skill Sets</button>
                 <button class="tablink" onclick="openCity(event,'Employment')"> Employment History</button>
             </div>
-        </div>
+        </nav>
 
         <div id="Home" class="tabcontent">
             <h2> Home</h2>
