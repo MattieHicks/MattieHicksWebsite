@@ -37,7 +37,7 @@
                 padding-top: 5%;
             }
 
-            #Projects {
+            #Project {
                 font-family: 'Times New Roman', Times, serif;
                 color: black;
                 padding-left: 2%;
@@ -45,7 +45,7 @@
                 padding-top: 5%;
             }
 
-            #Skills {
+            #Skill {
                 font-family: 'Times New Roman', Times, serif;
                 color: black;
                 padding-left: 2%;
@@ -53,7 +53,7 @@
                 padding-top: 5%;
             }
 
-            #Employment {
+            #Employ {
                 font-family: 'Times New Roman', Times, serif;
                 color: black;
                 padding-left: 2%;
