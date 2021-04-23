@@ -1,7 +1,6 @@
-        <html>
-        <head>
+<head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <style>
 
 
@@ -27,7 +26,7 @@
                 color: black;
                 padding-left: 2%;
                 padding-right: 2%;
-                padding-top: 10%;
+                padding-top: 5%;
             }
 
             #About {
@@ -35,7 +34,7 @@
                 color: black;
                 padding-left: 2%;
                 padding-right: 2%;
-                padding-top: 10%;
+                padding-top: 5%;
             }
 
             #Projects {
@@ -43,7 +42,7 @@
                 color: black;
                 padding-left: 2%;
                 padding-right: 2%;
-                padding-top: 10%;
+                padding-top: 5%;
             }
 
             #Skills {
@@ -51,7 +50,7 @@
                 color: black;
                 padding-left: 2%;
                 padding-right: 2%;
-                padding-top: 10%;
+                padding-top: 5%;
             }
 
             #Employment {
@@ -59,7 +58,7 @@
                 color: black;
                 padding-left: 2%;
                 padding-right: 2%;
-                padding-top: 10%;
+                padding-top: 5%;
             }
 
             body {
@@ -183,25 +182,7 @@
         </div>
 
         <div id="Employment" class="tabcontent">
-            <!--<h2> Employment History</h2>-->
-            <p>
-                <h2>Past Experience:</h2>
-                <h3>Teacher's Assitant for Computer-Based Information Systems</h3>
-                <ul>
-                    <li>Assist OU Professors in teaching class and grading homework, projects, and tests</li>
-                    <li>Help students understand how to store and retrieve data, analyze and visualize data, automate data operations, and product data</li>
-                    <li>Hold office hours to tutor students outside of class to work a total of 15 to 20 hours weekly</li>
-                </ul>
-            </p>
-            <p>
-                <h2>Future Experience:</h2>
-                <h3>PepsiCo Information Technology Intern</h3>
-                <ul>
-                    <li>Join and support CTO within PepsiCo IT</li>
-                    <li>Work on an individual project centered around global workplace services engagement</li>
-                </ul>
-            </p>
-
+            <h2> Employment History</h2>
         </div>
 
 
