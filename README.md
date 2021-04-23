@@ -17,7 +17,7 @@
 
             #Title {
                 font-family: 'Times New Roman', Times, serif;
-                padding-left: 25%;
+                padding-left: 30%;
                 font-size: 35px;
             }
 
@@ -112,9 +112,9 @@
             <div class="tab">
                 <button class="tablink" onclick="openCity(event,'Home')">Home</button>
                 <button class="tablink" onclick="openCity(event,'About')">About</button>
-                <button class="tablink" onclick="openCity(event,'Projects')"> Projects</button>
-                <button class="tablink" onclick="openCity(event,'Skills')"> Skill Sets</button>
-                <button class="tablink" onclick="openCity(event,'Employment')"> Employment History</button>
+                <button class="tablink" onclick="openCity(event,'Project')"> Projects</button>
+                <button class="tablink" onclick="openCity(event,'Skill')"> Skill Sets</button>
+                <button class="tablink" onclick="openCity(event,'Employ')"> Employment History</button>
             </div>
         </nav>
 
@@ -153,7 +153,7 @@
             </div>
 
 
-        <div id="Projects" class="tabcontent">
+        <div id="Project" class="tabcontent">
             <h2>Some projects I've worked on...</h2>
             <p>
                 <a href="https://drive.google.com/file/d/1c17DZ4jNkXkEDM3bBlq_agel7bwvdBM5/view?usp=sharing" target="_blank" rel="noopener noreferrer">Database Final Project</a>
@@ -161,7 +161,7 @@
             </p>
         </div>
 
-        <div id="Skills" class="tabcontent">
+        <div id="Skill" class="tabcontent">
             <h2>A few of my skills include...</h2>
 
             <h3>Technical Skills:</h3>
@@ -179,7 +179,7 @@
             </ul>
         </div>
 
-        <div id="Employment" class="tabcontent">
+        <div id="Employ" class="tabcontent">
             <h2> Employment History</h2>
             <p>
                 <h2>Current Experience:</h2>
@@ -217,5 +217,3 @@
             }
         </script>
 
-    </body>
-    </html>
