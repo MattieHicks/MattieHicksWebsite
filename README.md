@@ -161,7 +161,7 @@
                 <h3>Teacher's Assitant for Computer-Based Information Systems</h3>
                 <ul>
                     <li>Assist OU Professors in teaching class and grading homework, projects, and tests</li>
-                    <li>Help students understand how to store and retrieve data, analyze and visualize data, automate data operations, and product data</li>
+                    <li>Help students understand how to store and retrieve data, analyze and visualize data, automate data operations, and protect data</li>
                     <li>Hold office hours to tutor students outside of class to work a total of 15 to 20 hours weekly</li>
                 </ul>
             </p>
