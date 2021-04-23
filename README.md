@@ -119,7 +119,8 @@
         </nav>
 
         <div id="Home" class="tabcontent">
-            <h2> Home</h2>
+            <h2>Mattie Hicks</h2>
+            <h2>University of Oklahoma Class of 2022</h2>
             <p>
                 <img src="https://media-exp1.licdn.com/dms/image/C5603AQE3opXo_jbJgw/profile-displayphoto-shrink_200_200/0/1600834979746?e=1624492800&v=beta&t=U-N9dcNtCLWrkNKhIV5sn1rSgXWAScLW0JOBX7cPC0Q" alt="Mattie's Headshot" />
             </p>
