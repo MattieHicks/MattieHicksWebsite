@@ -186,7 +186,7 @@
                 I currently work as a TA for the MIS department for our Computer-Based Information course. This has allowed
                 me to strengthen my skills in SQL Server, VBA, Microsoft Excel, and my overall communication and leadership skills.
             </p>
-            <p> I am also involved in the MIS Student Association (MISSA), Women in Business Association (WIB), and served as the Publicity Chair for ALpha Lambda Delta National Honor Society
+            <p> I am also involved in the MIS Student Association (MISSA), Women in Business (WIB), and served as the Publicity Chair for Alpha Lambda Delta National Honor Society
             as well as the Vice President of Recruitment for Pi Beta Phi Women's Fraternity. I discovered I love leading others and constantly am looking for ways to grow.
             When I am not in the classroom, working or involved with my extracaricular activities, I enjoy spending time with friends and family.
             </p>
