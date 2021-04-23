@@ -17,7 +17,7 @@
 
             #Title {
                 font-family: 'Times New Roman', Times, serif;
-                padding-left: 33%;
+                padding-left: 25%;
                 font-size: 35px;
             }
 
