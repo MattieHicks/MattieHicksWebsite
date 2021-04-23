@@ -1,5 +1,5 @@
-    <html>
-    <head>
+        <html>
+        <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <style>
@@ -195,7 +195,7 @@
             </p>
             <p>
                 <h2>Future Experience:</h2>
-                <h2>PepsiCo Information Technology Intern</h2>
+                <h3>PepsiCo Information Technology Intern</h3>
                 <ul>
                     <li>Join and support CTO within PepsiCo IT</li>
                     <li>Work on an individual project centered around global workplace services engagement</li>
